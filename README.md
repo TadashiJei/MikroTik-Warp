@@ -168,7 +168,7 @@ This is a list of the most useful environment variables. To find all available l
 *Required
 
 ## Initial User
-   To create the initial user run: (replace: admin@xterm.me with your email)
+   To create the initial user run: (replace: admin@tadashijei.com with your email)
    ```bash
    docker compose exec Mikro-Warp php artisan app:create-user admin@tadashijei.com admin 
    ```
