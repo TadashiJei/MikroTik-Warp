@@ -3,7 +3,7 @@ MikroTik Warp empowers you to take complete control over your WireGuard VPN on M
 
 | Login | Users | Connection |
 | --- | --- | --- |
-![login](https://github.com/TadashiJei/MikroTik-Warp/assets/7698065/3ea6b5b0-b9ca-4b1b-a546-955724d5bedf) | ![user](https://github.com/TadashiJei/MikroTik-Warp/assets/7698065/4864029e-c176-4577-96f1-20bf3e982b53) | ![connection](https://github.com/TadashiJei/MikroTik-Warp/assets/7698065/1f44b3b7-f4c6-4bd1-819a-b1e19fdf619c)
+![login](https://raw.githubusercontent.com/TadashiJei/MikroTik-Warp/main/assets/326798218-3ea6b5b0-b9ca-4b1b-a546-955724d5bedf.png) | ![user](https://github.com/TadashiJei/MikroTik-Warp/assets/7698065/4864029e-c176-4577-96f1-20bf3e982b53) | ![connection](https://github.com/TadashiJei/MikroTik-Warp/assets/7698065/1f44b3b7-f4c6-4bd1-819a-b1e19fdf619c)
 
 ## Table of Contents
 
