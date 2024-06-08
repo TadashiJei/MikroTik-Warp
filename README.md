@@ -75,6 +75,7 @@ To set up a new user group and user, input the following commands:
 
 # Replace "username" and "userpassword" with your desired credentials
 /user add name=username group=MikroGuard-group password=userpassword
+```
 
 ### Server Installation
 
